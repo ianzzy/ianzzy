@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Ian.
+### Hi there 👋
+
+My name is Ian
+
 - 👀 I’m interested in cloud, cyber, data and AI.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on LLMOps.
